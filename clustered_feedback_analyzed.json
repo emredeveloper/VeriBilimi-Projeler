@@ -1,0 +1,217 @@
+[
+  {
+    "feedback_text": "A mobile app would be fantastic!",
+    "cluster_id": 3,
+    "theme_label": "Positive Product Usability"
+  },
+  {
+    "feedback_text": "I wish there was an option to export data to CSV.",
+    "cluster_id": 0,
+    "theme_label": "New Feature Suggestions"
+  },
+  {
+    "feedback_text": "Could you implement a bulk edit feature?",
+    "cluster_id": 0,
+    "theme_label": "New Feature Suggestions"
+  },
+  {
+    "feedback_text": "Great design, very easy to navigate.",
+    "cluster_id": 3,
+    "theme_label": "Positive Product Usability"
+  },
+  {
+    "feedback_text": "The user experience is fantastic.",
+    "cluster_id": 3,
+    "theme_label": "Positive Product Usability"
+  },
+  {
+    "feedback_text": "Can you explain the difference between the basic and premium plans?",
+    "cluster_id": 2,
+    "theme_label": "Pricing Plan Questions"
+  },
+  {
+    "feedback_text": "What payment methods do you accept?",
+    "cluster_id": 2,
+    "theme_label": "Pricing Plan Questions"
+  },
+  {
+    "feedback_text": "How much does the enterprise level cost?",
+    "cluster_id": 2,
+    "theme_label": "Pricing Plan Questions"
+  },
+  {
+    "feedback_text": "I was able to get started right away, no learning curve at all.",
+    "cluster_id": 3,
+    "theme_label": "Positive Product Usability"
+  },
+  {
+    "feedback_text": "Do you offer a non-profit discount?",
+    "cluster_id": 2,
+    "theme_label": "Pricing Plan Questions"
+  },
+  {
+    "feedback_text": "Are there any hidden fees I should be aware of?",
+    "cluster_id": 2,
+    "theme_label": "Pricing Plan Questions"
+  },
+  {
+    "feedback_text": "Is the pricing per user or per team?",
+    "cluster_id": 2,
+    "theme_label": "Pricing Plan Questions"
+  },
+  {
+    "feedback_text": "It would be great if you could add a dark mode.",
+    "cluster_id": 3,
+    "theme_label": "Positive Product Usability"
+  },
+  {
+    "feedback_text": "It took three days to get a response to my email.",
+    "cluster_id": 1,
+    "theme_label": "Customer Support Complaints"
+  },
+  {
+    "feedback_text": "Everything is exactly where I expect it to be.",
+    "cluster_id": 3,
+    "theme_label": "Positive Product Usability"
+  },
+  {
+    "feedback_text": "The wait times for support are unacceptable.",
+    "cluster_id": 1,
+    "theme_label": "Customer Support Complaints"
+  },
+  {
+    "feedback_text": "Consider adding a feature to schedule reports.",
+    "cluster_id": 0,
+    "theme_label": "New Feature Suggestions"
+  },
+  {
+    "feedback_text": "I was on hold for an hour waiting for support.",
+    "cluster_id": 1,
+    "theme_label": "Customer Support Complaints"
+  },
+  {
+    "feedback_text": "What are the features included in the pro plan?",
+    "cluster_id": 2,
+    "theme_label": "Pricing Plan Questions"
+  },
+  {
+    "feedback_text": "Customer service needs to be faster.",
+    "cluster_id": 1,
+    "theme_label": "Customer Support Complaints"
+  },
+  {
+    "feedback_text": "An API for developers would be a great addition.",
+    "cluster_id": 0,
+    "theme_label": "New Feature Suggestions"
+  },
+  {
+    "feedback_text": "Is it possible to upgrade my plan later?",
+    "cluster_id": 2,
+    "theme_label": "Pricing Plan Questions"
+  },
+  {
+    "feedback_text": "The interface is so intuitive!",
+    "cluster_id": 3,
+    "theme_label": "Positive Product Usability"
+  },
+  {
+    "feedback_text": "Frustratingly long hold times.",
+    "cluster_id": 1,
+    "theme_label": "Customer Support Complaints"
+  },
+  {
+    "feedback_text": "I'd love to see more customization options.",
+    "cluster_id": 3,
+    "theme_label": "Positive Product Usability"
+  },
+  {
+    "feedback_text": "Need more agents in customer support.",
+    "cluster_id": 1,
+    "theme_label": "Customer Support Complaints"
+  },
+  {
+    "feedback_text": "Can you please improve your support response time?",
+    "cluster_id": 1,
+    "theme_label": "Customer Support Complaints"
+  },
+  {
+    "feedback_text": "This is the most user-friendly software I've ever used.",
+    "cluster_id": 3,
+    "theme_label": "Positive Product Usability"
+  },
+  {
+    "feedback_text": "Nobody picked up when I called support.",
+    "cluster_id": 1,
+    "theme_label": "Customer Support Complaints"
+  },
+  {
+    "feedback_text": "I gave up waiting for a support agent.",
+    "cluster_id": 1,
+    "theme_label": "Customer Support Complaints"
+  },
+  {
+    "feedback_text": "Could you detail the limitations of the free trial?",
+    "cluster_id": 2,
+    "theme_label": "Pricing Plan Questions"
+  },
+  {
+    "feedback_text": "Smooth and seamless operation.",
+    "cluster_id": 3,
+    "theme_label": "Positive Product Usability"
+  },
+  {
+    "feedback_text": "Is there a discount for yearly subscriptions?",
+    "cluster_id": 2,
+    "theme_label": "Pricing Plan Questions"
+  },
+  {
+    "feedback_text": "It would be helpful to have a search function within the settings.",
+    "cluster_id": 0,
+    "theme_label": "New Feature Suggestions"
+  },
+  {
+    "feedback_text": "I was on hold for an hour waiting for support.",
+    "cluster_id": 1,
+    "theme_label": "Customer Support Complaints"
+  },
+  {
+    "feedback_text": "Makes my work so much easier, thank you!",
+    "cluster_id": 3,
+    "theme_label": "Positive Product Usability"
+  },
+  {
+    "feedback_text": "Support is very slow to respond.",
+    "cluster_id": 1,
+    "theme_label": "Customer Support Complaints"
+  },
+  {
+    "feedback_text": "Need more agents in customer support.",
+    "cluster_id": 1,
+    "theme_label": "Customer Support Complaints"
+  },
+  {
+    "feedback_text": "Kudos to the design team for making it so simple!",
+    "cluster_id": 3,
+    "theme_label": "Positive Product Usability"
+  },
+  {
+    "feedback_text": "Can you add support for two-factor authentication?",
+    "cluster_id": 3,
+    "theme_label": "Positive Product Usability"
+  },
+  {
+    "feedback_text": "Please add an integration with Salesforce.",
+    "cluster_id": 3,
+    "theme_label": "Positive Product Usability"
+  },
+  {
+    "feedback_text": "I love how easy it is to use this product.",
+    "cluster_id": 3,
+    "theme_label": "Positive Product Usability"
+  },
+  {
+    "feedback_text": "What payment methods do you accept?",
+    "cluster_id": 2,
+    "theme_label": "Pricing Plan Questions"
+  }
+]
